@@ -1,6 +1,6 @@
 # Pindie Backend
 
-Ссылка на репозиторий с фронтендом: https://github.com/foxenko/pindie-frontend
+Ссылка на репозиторий с фронтендом: https://github.com/MemsHC/front
 
 Ссылка на домен фронтенда: https://pindie1frontend.nomoredomainswork.ru/
 
